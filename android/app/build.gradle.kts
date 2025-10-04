@@ -27,7 +27,7 @@ android {
         applicationId = "com.g13.firebaecone2g13"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
-        minSdk = 23
+        minSdkVersion flutter.minSdkVersion
         // minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
